@@ -21,8 +21,12 @@ namespace 测试
 
         private void button1_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             string ei = "ei";
             string ci = "ci";
+=======
+            string di = "di";
+>>>>>>> master
             string bi = "bi";
             string ai = "ai";
             string sql = "select * from Star";
