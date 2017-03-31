@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2012\Projects\测试\测试\bin\Debug\测试.exe.config
+c:\users\lenovo\documents\visual studio 2012\Projects\测试\测试\bin\Debug\测试.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\测试\测试\bin\Debug\测试.pdb
+c:\users\lenovo\documents\visual studio 2012\Projects\测试\测试\obj\Debug\测试.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2012\Projects\测试\测试\obj\Debug\测试.Form1.resources
+c:\users\lenovo\documents\visual studio 2012\Projects\测试\测试\obj\Debug\测试.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2012\Projects\测试\测试\obj\Debug\测试.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2012\Projects\测试\测试\obj\Debug\测试.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\测试\测试\obj\Debug\测试.pdb
