@@ -21,6 +21,7 @@ namespace 测试
 
         private void button1_Click(object sender, EventArgs e)
         {
+            string ai = "ai";
             string sql = "select * from Star";
             OleDbConnection conn = new OleDbConnection(@"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=MyQQ.accdb;");
             conn.Open();
